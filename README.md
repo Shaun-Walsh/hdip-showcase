@@ -8,4 +8,4 @@ This project extends FlightCtl with ML model drift monitoring for edge devices u
 
 ## Repository
 
-The main codebase is in my FlightCtl fork: https://github.com/shaun-walsh/flightctl
+The main codebase is in my FlightCtl fork: https://github.com/Shaun-Walsh/flightctl/tree/wrig-1305-ml-model-monitoring
