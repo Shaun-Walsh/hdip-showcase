@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # D.O.M: Operationalising MLOps at the Edge
 
 HDip in Computer Science - Capstone Project
