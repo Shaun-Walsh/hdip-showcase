@@ -21,3 +21,9 @@ HDip in Computer Science - Capstone Project
     <img src="showcase.jpg" alt="Project Showcase" style="max-width: 100%;">
   </div>
 </div>
+
+## Video Presentation
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 20px 0;">
+  <iframe src="https://www.youtube.com/embed/DXHnWAcI3I4" title="D.O.M: Operationalising MLOps at the Edge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
